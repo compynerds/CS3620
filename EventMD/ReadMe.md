@@ -9,5 +9,5 @@ This api can perform these functions:
 * [Create a event](EventCreate.md)
 * [Get a event](EventRead.md)
 * [List events](EventList.md)
-* [Delete a event](EventDelete.md)
+* [Archive event](EventArchive.md)
 * [Update a event](EventUpdate.md)
