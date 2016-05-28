@@ -9,4 +9,4 @@ This api can perform these functions:
 * [Create a user](UserCreate.md)
 * [Get a user's profile](UserRead.md)
 * [List users](UserList.md)
-* [Delete a user](UserDelete.md
+* [Delete a user](UserDelete.md)
