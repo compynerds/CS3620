@@ -10,3 +10,4 @@ This api can perform these functions:
 * [Get a user's profile](UserRead.md)
 * [List users](UserList.md)
 * [Delete a user](UserDelete.md)
+* [Update a user](UserUpdate.md)
